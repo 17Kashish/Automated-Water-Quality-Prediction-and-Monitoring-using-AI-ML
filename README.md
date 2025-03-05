@@ -48,3 +48,11 @@ Our results demonstrate high accuracy and user interpretability, facilitating be
 *Grad-CAM:* Provides visual explanations for CNN predictions.
 
 *Mobile App Alerts:* Notifies users when contamination thresholds are exceeded.
+
+## Results & Analysis
+
+*Bar Chart:* Water quality predictions with a higher count of 'Clean' classifications.
+
+*Histogram:* Distribution of turbidity values, peaking around 0, 80, and 100.
+
+*Scatter Plot:* Relationship between turbidity levels and water quality predictions.
